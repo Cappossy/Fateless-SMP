@@ -1,7 +1,7 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "Fateless SMP"
+title = "Fateless Launcher"
 
 [ejs.landing]
 mediaGitHubURL = "#"
@@ -15,6 +15,6 @@ sourceGithubLink = ""
 supportLink = ""
 
 [ejs.welcome]
-welcomeHeader = "Bienvenue sur Fateless SMP"
-welcomeDescription = "#"
-welcomeDescCTA = "#"
+welcomeHeader = "Bienvenue sur Fateless Launcher"
+welcomeDescription = ""
+welcomeDescCTA = ""
